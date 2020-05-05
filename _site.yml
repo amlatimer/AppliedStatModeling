@@ -1,0 +1,49 @@
+navbar:
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+    icon: fa-info-circle  fa-1x
+  - text: Syllabus
+    href: syllabus.html
+    icon: fa-map fa-1x
+  - text: Set Up!
+    menu:
+    - text: Computer Setup
+      href: computer_setup.html
+  - text: Course Materials
+    icon: fa-book  fa-1x
+    menu:
+    - text: Readings
+      href: readings.html
+  - text: Class Schedule
+    icon: fa-slideshare fa-1x
+    href: class_schedule.html
+  - text: Assignments
+    icon: fa-paperclip fa-1x
+    href: assignments.html
+  - text: Resources
+    icon: fa-list
+    href: resources.html
+  right:
+  - text: Contact
+    icon: fa-hand-spock-o
+    href: contact.html
+  - icon: fa-github fa-lg
+    href: https://github.com/amlatimer/appliedstatisticalmodeling
+output_dir: docs
+output:
+  html_document:
+    theme: flatly
+    #highlight: pygments
+    code_folding: show
+    toc: yes
+    toc_float:
+      collapsed: yes
+    include:
+      in_header: header.html
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
+name: AppliedStatModeling

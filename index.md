@@ -1,7 +1,7 @@
 ---
 pagetitle: "Applied Statistical Modeling"
 title: "Applied Statistical Modeling"
-date: "Updated: `r format(Sys.Date())`"
+date: "Updated: 11 May 2020"
 ---
 
 ## (<font color="#DAAA00">**R**</font>-<font color="#DAAA00">**D**</font>ata <font color="#DAAA00">**A**</font>nalysis & <font color="#DAAA00">**V**</font>isualization <font color="#DAAA00">**I**</font>n <font color="#DAAA00">**S**</font>cience) {-}

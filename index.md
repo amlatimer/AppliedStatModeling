@@ -4,10 +4,6 @@ title: "Applied Statistical Modeling"
 date: "Updated: 11 May 2020"
 ---
 
-## (<font color="#DAAA00">**R**</font>-<font color="#DAAA00">**D**</font>ata <font color="#DAAA00">**A**</font>nalysis & <font color="#DAAA00">**V**</font>isualization <font color="#DAAA00">**I**</font>n <font color="#DAAA00">**S**</font>cience) {-}
-
-<br>  
-
 ### Course Description
 
 In this course, we will learn about and use some important tools for analyzing environmental data sets: classical/frequentist mixed models, hierarchical models, and Bayesian analysis. The class focuses mainly on linear and generalized linear models that include random effects. We cover likelihoods and optimization, and implement those concepts in R. We will start simple, then progress to more complex applications of hierarchical models. We will also touch on some related emerging topics, including sparse regression and regularization. Each student will do all exercises on their own computers using R, including its interfaces to JAGS/BUGS and Stan for Bayesian model fitting. Class time is divided into about 50% lecture/discussion and 50% group work. For the homework exercises, everyone will do the analyses and write answers themselves, though working together on the problems is encouraged.**
